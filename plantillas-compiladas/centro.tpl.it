@@ -1,0 +1,11 @@
+a:4:{s:6:"blocks";a:1:{s:10:"__global__";s:237:"<script type="text/javascript">
+Ext.onReady(function(){
+// Extjs Message Box
+Ext.Msg.show({
+title: "Greeting Extjs User",
+msg: "Hello World, Welcome to Extjs. Isn't Cool?",
+icon: Ext.Msg.INFO,
+buttons: Ext.MessageBox.OK
+});
+});
+</script>";}s:9:"variables";a:1:{s:10:"__global__";a:0:{}}s:8:"children";a:1:{s:10:"__global__";a:0:{}}s:9:"functions";a:1:{s:10:"__global__";a:0:{}}}
